@@ -1,5 +1,9 @@
+# gameperson
+
+**more of a state of mind***
+
+
 ## Hi there 👋
-# I'm gameperson
 
 <!--
 **gameperson/gameperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+\* much more than another confusing vision or a true catastrophy
