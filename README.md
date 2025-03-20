@@ -1,22 +1,29 @@
-# gameperson
+# gameperson@github
 
-**more of a state of mind***
+\* *more of a **state of mind*** *
+<hr>
 
+<br>
 
-## Hi there 👋
+### Hi there 👋
+- 🔭 I’m currently working on:
+  - **Fredom For Your Mind**
+  -  https://gameperson.github.io/info/index.html
 
-<!--
-**gameperson/gameperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning:
+  - Way Too Much to Swallow from the Demons
+  - Ugly Things I Didn't Want to See form the Devils
+  - To Hold a Glimmer of Hope from My Fellows
+  - That Some Dreams Just Aren't Avaiable Any More
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on:
+  - The Resistance and Ideas for Illumination
+  
+- 🤔 I’m looking for help with: $$
+- 💬 Ask me about: whatever
+- 😄 Pronouns: D, d
+- ⚡ Fun fact: gossip may just be a quantum state
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-\* much, much more than another unseen catastrophy or some strange and confusing vision
+<br>
+
+ \* *much, much more than some other **unseen catastrophy** or any **strange and confusing vision** for that matter.*
