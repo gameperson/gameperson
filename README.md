@@ -11,10 +11,10 @@
   -  https://gameperson.github.io/info/index.html
 
 - 🌱 I’m currently learning:
+  - Ugly Things I Didn't Want to know form the Devils
   - Way Too Much to Swallow from the Demons
-  - Ugly Things I Didn't Want to See form the Devils
   - To Hold a Glimmer of Hope from My Fellows
-  - That Some Dreams Just Aren't Avaiable Any More
+  - That Some Dreams Just Aren't Avaiable Any More from Gia
 
 - 👯 I’m looking to collaborate on:
   - The Resistance and Ideas for Illumination
