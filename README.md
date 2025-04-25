@@ -19,9 +19,8 @@
   - The Resistance and Ideas for Illumination
   
 - 🤔 I’m looking for help with: **$$**
- 
-  [Donate via PayPal](https://www.paypal.biz/gameperson)  
-  [Become a GitHub Sponsor](https://github.com/sponsors/gameperson)
+  - [Donate via PayPal](https://www.paypal.biz/gameperson)
+  - [Become a GitHub Sponsor](https://github.com/sponsors/gameperson)
 
 - 💬 Ask me about: whatever
 - 😄 Pronouns: D, d
