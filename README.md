@@ -1,6 +1,6 @@
 # gameperson@github
 
-*more of a **state of mind*** *
+*more of a **state of mind*** &ast;
 
 ---
 
@@ -29,4 +29,4 @@
 
 ---
 
-* *much, much more than some other **unseen catastrophy** or any **strange and confusing vision** for that matter.*
+ &ast; *much, much more than some other **unseen catastrophy** or any **strange and confusing vision** for that matter.*
