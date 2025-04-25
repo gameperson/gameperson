@@ -29,4 +29,4 @@
 
 ---
 
- &ast; *much, much more than some other **unseen catastrophy** or any **strange and confusing vision** for that matter.*
+ &ast; *much, much, more than a **state of mind**, or even some other **unseen catastrophy**, or any **strange and confusing vision** for that matter.*
