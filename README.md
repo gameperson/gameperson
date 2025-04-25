@@ -1,6 +1,8 @@
 # gameperson@github
 
-*more of a **state of mind***
+*more of a **state of mind*** *
+
+---
 
 ### Hi there 👋
 - 🔭 I’m currently working on:
@@ -25,6 +27,6 @@
 - 😄 Pronouns: D, d
 - ⚡ Fun fact: gossip may just be a quantum state
 
-<br>
+---
 
- \* *much, much more than some other **unseen catastrophy** or any **strange and confusing vision** for that matter.*
+* *much, much more than some other **unseen catastrophy** or any **strange and confusing vision** for that matter.*
