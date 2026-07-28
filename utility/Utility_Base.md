@@ -26,3 +26,7 @@ The meta work is creating relational connections as the base grows.
 * **Classification:** Architectural Firewall / Pre-Execution Gatekeeper
 * **Core Mechanism:** Dynamic sliding-window variance triage (L0), dependency parsing (L1), non-linear metric tensor evaluation (L2), and solvability threshold gating (L3).
 * **Primary Cross-References:** Ouroboros Loop Mitigation, Agentic Guardrails, Topological Drift Detection.
+
+### Registry Index: 
+* **File Path:** `/utility/.md`
+* **Classification:** 
