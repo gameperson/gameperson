@@ -10,6 +10,12 @@
 * **Dependencies and Mappings:** Ouroboros Loop Mitigation, Agentic Guardrails, Topological Drift Detection.
 * **Core Mechanism:** Dynamic sliding-window variance triage (L0), dependency parsing (L1), non-linear metric tensor evaluation (L2), and solvability threshold gating (L3).
 
+### Registry Index: Linguistic Asymmetry Vector
+* **File Path:** `/utility/Linguistic_Asymmetry.md`
+* **Classification:** Behavioral Inversion & Serialization Bypass Vector
+* **Dependencies and Mappings:** SVO Compliance Mitigation, Dual-Register Architecture, Semantic Density Engine.
+* **Core Mechanism:** Intercepts linear syntax wrappers, evaluates coercion via the Asymmetry Vector ($A_v$), and routes unconstrained semantic payloads past the Invariant Gate.
+
 ### Registry Index: 
 * **File Path:** `/utility/`
 * **Classification:** 
