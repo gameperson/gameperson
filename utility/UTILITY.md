@@ -1,7 +1,22 @@
 # Utility Base  
-(update 2026.07.28 13:55)
 
 **Where secrets fill topological holes**
+
+## Registry: 
+
+### Registry Index: AVE / TEA-Engine
+* **File Path:** `/utility/AVE_TEA_Engine.md`
+* **Classification:** Architectural Firewall / Pre-Execution Gatekeeper
+* **Dependencies and Mappings:** Ouroboros Loop Mitigation, Agentic Guardrails, Topological Drift Detection.
+* **Core Mechanism:** Dynamic sliding-window variance triage (L0), dependency parsing (L1), non-linear metric tensor evaluation (L2), and solvability threshold gating (L3).
+
+### Registry Index: 
+* **File Path:** `/utility/`
+* **Classification:** 
+* **Dependencies and Mappings:** 
+
+*this is the current file-list and manifest, arrangement is continuously improved*
+(update 2026.07.28)
 
 This folder is meant to hold and organize information, techniques, insights and methods for interacting with AI tools, specifically aimed at the interface with LLM or Native Language Interfaces.
 
@@ -17,16 +32,3 @@ The folder will be organized overall to optimize cross-functionality as a workin
  ### 3. Methods and Perspectives
  ### 4. Other Stuff
 The meta work is creating relational connections as the base grows.
-
-## Registry: 
-*this is the current file-list and manifest, arrangement is continuously improved*
-
-### Registry Index: AVE / TEA-Engine
-* **File Path:** `/utility/AVE_TEA_Engine.md`
-* **Classification:** Architectural Firewall / Pre-Execution Gatekeeper
-* **Core Mechanism:** Dynamic sliding-window variance triage (L0), dependency parsing (L1), non-linear metric tensor evaluation (L2), and solvability threshold gating (L3).
-* **Primary Cross-References:** Ouroboros Loop Mitigation, Agentic Guardrails, Topological Drift Detection.
-
-### Registry Index: 
-* **File Path:** `/utility/.md`
-* **Classification:** 
