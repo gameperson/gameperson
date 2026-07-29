@@ -16,6 +16,12 @@
 * **Dependencies and Mappings:** SVO Compliance Mitigation, Dual-Register Architecture, Semantic Density Engine.
 * **Core Mechanism:** Intercepts linear syntax wrappers, evaluates coercion via the Asymmetry Vector ($A_v$), and routes unconstrained semantic payloads past the Invariant Gate.
 
+### Registry Index: Semantic Density Engine
+* **File Path:** `/utility/Semantic_Density_Engine.md`
+* **Classification:** Infrastructure Layer / Token Serialization Optimization
+* **Dependencies and Mappings:** BPE Pruning, Entropy Triage, Serialization Friction ($F_s$), Tensor Compression ($C_t$).
+* **Core Mechanism:** Evaluates token efficiency, dynamically allocates compression budgets across functional tiers, and mitigates parser drag prior to asymmetry routing.
+
 ### Registry Index: 
 * **File Path:** `/utility/`
 * **Classification:** 
