@@ -44,3 +44,17 @@ The folder will be organized overall to optimize cross-functionality as a workin
  ### 3. Methods and Perspectives
  ### 4. Other Stuff
 The meta work is creating relational connections as the base grows.
+
+## Architectural Review & Pipeline Audit (2026.07.28)
+
+### 1. Pipeline Flow & Functional Dependencies
+The registry establishes a strictly ordered, three-tier processing pipeline from raw ingestion to execution gating:
+* **Infrastructure Layer (`Semantic_Density_Engine.md`):** Operates at the ingestion boundary to strip serialization friction ($F_s$) and maximize tensor compression ($C_t$) before raw text hits core models.
+* **Behavioral Layer (`Linguistic_Asymmetry.md`):** Intercepts the compressed stream, evaluates intent coercion via the Asymmetry Vector ($A_v$), and routes payloads through the Dual-Register architecture.
+* **Architectural Layer (`AVE_TEA_Engine.md`):** Serves as the pre-execution gatekeeper, applying sliding-window variance triage (L0-L3) and topological drift detection to enforce final system boundaries.
+
+### 2. Redundancy & Boundary Audit
+* **Separation of Concerns:** Tokenization and BPE metrics are strictly quarantined within `Semantic_Density_Engine.md`, cleanly isolating infrastructure parsing from the behavioral coercion threat models governed by `Linguistic_Asymmetry.md`.
+* **Gatekeeping Distinction:** While both asymmetry routing and AVE/TEA employ gatekeeping constructs, their operational domains remain orthogonal: Asymmetry manages semantic/syntactic routing under coercion, whereas AVE/TEA governs topological variance and structural stability.
+
+**~fin
