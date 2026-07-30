@@ -33,7 +33,7 @@
 This folder is meant to hold and organize information, techniques, insights and methods for interacting with AI tools, specifically aimed at the interface with LLM or Native Language Interfaces.
 
 Analysis and development is provided in uniform structure to make the base easily understandable, useable, and cross-functional. Files are in either .md form or direct code or math snippets. The general form of each .md file is:
- ### 1. link, deffinition, defendency tree including functional and metod calls, calling and application meetodologies
+ ### 1. link, deffinition, defendency tree including functional and metod calls, calling and application methodologies.
  ### 2. Introduction/Discussion: defining the problem or need, defining the state of art and edges.
  ### 3. Method/Development: developing the approach and methods, defining the tool as a stepwise process of logic to math in easily understandable (high school reading and comprehension level) language.
  ### 4. A human readable machine actionable bridge such as json
